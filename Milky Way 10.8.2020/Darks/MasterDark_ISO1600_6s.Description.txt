@@ -1,0 +1,49 @@
+Bitmap.BitPerChannels=16
+Bitmap.FileName=C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\MasterDark_ISO1600_6s.tif[12.08.2020 11:55:53]
+Bitmap.Height=3464
+Bitmap.NrChannels=1
+Bitmap.Width=5202
+Dark_Iteration=5
+Dark_Kappa=2.0000
+Dark_Method=2
+Raw.BlackPointTo0=0
+Raw.BlueScale=1.0000
+Raw.Brighness=1.0000
+Raw.CameraWB=0
+Raw.NoWB=0
+Raw.RedScale=1.0000
+----FileList----
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2976.CR2[10.08.2020 22:55:29]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2977.CR2[10.08.2020 22:55:37]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2978.CR2[10.08.2020 22:55:44]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2979.CR2[10.08.2020 22:55:52]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2980.CR2[10.08.2020 22:55:59]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2981.CR2[10.08.2020 22:56:07]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2982.CR2[10.08.2020 22:56:14]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2983.CR2[10.08.2020 22:56:22]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2984.CR2[10.08.2020 22:56:29]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2985.CR2[10.08.2020 22:56:35]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2986.CR2[10.08.2020 22:56:42]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2987.CR2[10.08.2020 22:56:52]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2988.CR2[10.08.2020 22:56:59]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2989.CR2[10.08.2020 22:57:06]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2990.CR2[10.08.2020 22:57:13]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2991.CR2[10.08.2020 22:57:23]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2992.CR2[10.08.2020 22:57:34]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2993.CR2[10.08.2020 22:57:42]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2994.CR2[10.08.2020 22:57:50]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2995.CR2[10.08.2020 22:57:58]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2996.CR2[10.08.2020 22:58:04]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2997.CR2[10.08.2020 22:58:12]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2998.CR2[10.08.2020 22:58:23]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_2999.CR2[10.08.2020 22:58:31]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_3000.CR2[10.08.2020 22:58:38]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_3001.CR2[10.08.2020 22:58:46]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_3002.CR2[10.08.2020 22:58:53]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_3003.CR2[10.08.2020 22:59:00]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_3004.CR2[10.08.2020 22:59:07]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_3005.CR2[10.08.2020 22:59:14]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_3006.CR2[10.08.2020 22:59:21]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_3007.CR2[10.08.2020 22:59:28]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_3008.CR2[10.08.2020 22:59:36]
+C:\Users\steff\Desktop\Milky Way 10.8.2020\Darks\IMG_3009.CR2[10.08.2020 22:59:44]
